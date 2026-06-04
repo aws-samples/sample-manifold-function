@@ -1,11 +1,7 @@
-## My Project
+## Manifold Conversion Script
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository contains a Python function referenced in the AWS blog "Open source 3D game asset generation using AWS".
+The file "fix_manifold.py" contains the function, which can be copy and pasted into a new file on an EC2 instance to convert non-manifold meshes into manifold objects.
 
 ## Security
 
